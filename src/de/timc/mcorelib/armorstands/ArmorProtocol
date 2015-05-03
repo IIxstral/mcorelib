@@ -1,0 +1,41 @@
+~~ ArmorStand Protocol
+http://minecraft.gamepedia.com/Chunk_format#Other
+
+Arme anzeigen:
+showArms:1
+
+
+Visible setzen: 
+Invisible: 1 or 0 (true/false)
+
+base plate entfernen
+NoBasePlate: 1 or 0 (true/false)
+
+NoGravity: 1 or 0 (true/false) - if true, ArmorStand will not fall if in the air.
+
+Small: 1 or 0 (true/false) - if true, ArmorStand will be much smaller. Compare to a Baby Zombie.
+
+
+Equipment:
+0: Der Gegenstand, den das Wesen in der Hand hält.
+1: Rüstung (Füße).
+2: Rüstung (Beine).
+3: Rüstung (Brust).
+4: Rüstung (Kopf).
+
+
+Pose
+Body: Body-specific rotations.
+LeftArm: Left Arm-specific rotations.
+RightArm: Right Arm-specific rotations
+LeftLeg: Left Leg-specific rotations
+RightLeg: Right Leg-specific rotations.
+Head: Head-specific rotations
+
+
+
+
+/summon ArmorStand ~ ~ ~ {Invisible:1b,Rotation:[55f],
+Equipment:[{id:"IRON_SWORD",Count:1b},{id:"IRON_SWORD",Count:1b},{id:"IRON_SWORD",Count:1b},{id:"IRON_SWORD",Count:1b},{id:"IRON_SWORD",Count:1b}],
+Pose:{Body:[175f,261f,323f],Head:[335f,10f,72f],LeftLeg:[105f,276f,126f],RightLeg:[305f,295f,180f]}}
+

@@ -1,0 +1,36 @@
+MCoreLib - Das ultimative Bukkit tool für Plugin-Developer
+~ Development by MCfrek99 and TiSan
+
+                 >~ Concept Paper ~<
+
+
+>>> Noch zu erledigen:
+
+ - Nichts. Kann das sein? 
+ -	HUD system wie bei cc
+ - Custom Potion Effect Bottles
+ - Items mit Effekten versehen, in Hand (/give @p leather_boots 1 0 {display:{Name:Siebenmeilenstiefel},AttributeModifiers:[{      AttributeName:generic.movementSpeed,      Amount:-0.5f,      Name:Extraschnell,      Operation:0,      UUIDLeast:1,      UUIDMost:5    }  ]})
+ - Armor Stands
+ - 
+
+Erledigt:
+
+- Countdown (fertig)
+  - Listener (onTick, onFinish)
+  - Einstellen der Countdown-Nachricht
+  - Einstellen, wann die Nachrichten erscheinen (mit Objekt und variablem Prefix)
+  - Abbruch- und Pausefunktion
+- Dragon-Bar (fertig)
+- Hologram (fertig)
+- Particles (fertig)
+- SQL (fertig)
+- createItem (fertig)
+- Wollfarbe in Textfarbe und umgekehrt (fertig)
+- ServerTool Lite (BungeeCord Sachen, ohne LobbyTools Server [sendStatusToLobby etc.]) (fertig)
+- Chat (Format, Color) (fertig)
+- API für JSON Chat Messages hinzufügen
+- Update-Funktion (wie FlatUI)
+- Standard-Einstellungen für Events (BlockBreak, etc.)
+- Join-Leave-Messages an/aus/benutzerdefinierteTextanzeige?
+- Feuerwerk
+- Scoreboard

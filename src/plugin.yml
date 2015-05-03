@@ -1,0 +1,5 @@
+name: MCoreLib
+main: de.timc.mcorelib.plugin.MCoreLibPlugin
+version: 0.1
+description: MCoreLib
+commands:

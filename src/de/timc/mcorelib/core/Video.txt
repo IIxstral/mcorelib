@@ -1,0 +1,35 @@
+Das Wird die reinfolge die Wir im Video Vorstellen.
+
+
+MCorePlayer p = MCore.get().getMCorePlayer(String name)
+
+1.	p.setBlockBreakDisabled(boolean b);
+		@true Spieler kann keine blöcke abbauen.
+		@false Spieler kann Blöcke abbauen.
+		@return void;
+		
+2.	isBlockBreakDisabled();
+		@return (boolean) haub der Spieler blocke abbauen kann.
+		
+3.	addBlockBreakMaterialToWhitelist(Material material);
+		wenn der spieler keine blöcke abbauen darf(siehe 1.) kan man ein material zur whitelist hinzufügen
+		wen der spieler ein block abbeut und dieser block auf der whitelist steht darf er den abbauen.
+		@return void;
+		
+3. 	remBlockBreakMaterialToWhitelist(Material mat);
+		remove das material von der whitelist.
+		@return void;
+		
+4.	getBlockBreakWhitelist();
+		@return (ArrayList<Material>) die blockBreakWhitelist;
+		
+5.	addInventoryNameToBlacklist(String name);
+		fügt den namen eines inventars hinzu wo der spieler nicht klicken darf.
+		@return void;
+		
+6.	remInventoryNameToBlacklist(String name);
+		remove den namen von der InvontorBlacklist.
+		@return void;
+7.	getInventoryNameBlacklist();
+		@return (ArrayList<String>) die invoentory blackList;
+8.NNOOCCHH NNIICCHHTT FFEERRTTIIGG

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="de.timc.mcorelib.armorstands.Position" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/armorstands/Position.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="140" x="6661" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="de.timc.mcorelib.armorstands.ArmorStandProperty" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/armorstands/ArmorStandProperty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="927" width="262" x="6661" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="de.timc.mcorelib.config.ConfigValue" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/config/ConfigValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="239" x="12343" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="de.timc.mcorelib.config.ConfigManager" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/config/ConfigManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="243" x="12356" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="de.timc.mcorelib.config.Config" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/config/Config.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="213" x="12356" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="de.timc.mcorelib.config.ConfigValueNotFoundException" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/config/ConfigValueNotFoundException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="5225" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="de.timc.mcorelib.core.MCore" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/core/MCore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="362" x="7476" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="8" language="java" name="de.timc.mcorelib.countdown.CountdownListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/CountdownListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="199" x="12056" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="de.timc.mcorelib.countdown.CountdownProperty" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/CountdownProperty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="379" x="11637" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="de.timc.mcorelib.countdown.Countdown" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/Countdown.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="215" x="11847" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="de.timc.mcorelib.countdown.CountdownTicker" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/CountdownTicker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="175" x="11887" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="de.timc.mcorelib.countdown.CountdownTickEvent" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/CountdownTickEvent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="220" x="11627" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="de.timc.mcorelib.countdown.CountdownMessageHandler" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/countdown/CountdownMessageHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="219" x="11637" y="4000"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="de.timc.mcorelib.dragonbar.Dragon.PlayerMap.PlayerEntry" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/dragonbar/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="129" x="12622" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="de.timc.mcorelib.dragonbar.Dragon.ReflectionUtils" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/dragonbar/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="252" x="13090" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="de.timc.mcorelib.dragonbar.Dragon.FakeDragon" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/dragonbar/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="194" x="12856" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="de.timc.mcorelib.dragonbar.Dragon" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/dragonbar/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="204" x="12856" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="de.timc.mcorelib.dragonbar.Dragon.PlayerMap" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/dragonbar/Dragon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="207" x="12609" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="de.timc.mcorelib.effectlib.Effect" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/Effect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="134" x="8682" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="de.timc.mcorelib.effectlib.EffectManager" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/EffectManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="463" x="8425" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="21" language="java" name="de.timc.mcorelib.effectlib.EffectType" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/EffectType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="139" x="8938" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="22" language="java" name="de.timc.mcorelib.effectlib.entity.EntityManager" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/entity/EntityManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="230" x="7185" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="de.timc.mcorelib.effectlib.event.EffectEvent" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/event/EffectEvent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="144" x="794" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="de.timc.mcorelib.effectlib.listener.ItemListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/listener/ItemListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="228" x="5711" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.BlockData" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="143" x="9535" y="4000"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="de.timc.mcorelib.effectlib.util.RandomUtils" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/RandomUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="208" x="4450" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="de.timc.mcorelib.effectlib.util.StringParser" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/StringParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="269" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" 
+    name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticlePacket.PacketInstantiationException" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="253" x="10215" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" 
+    name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticlePacket.PacketSendingException" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="235" x="10508" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="de.timc.mcorelib.effectlib.util.MathUtils.Atan2" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/MathUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="132" x="7013" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleDataException" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="166" x="11142" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="32" language="java" name="de.timc.mcorelib.effectlib.util.ReflectionUtils.DataType" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ReflectionUtils.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="222" x="6100" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="33" language="java" name="de.timc.mcorelib.effectlib.util.ReflectionUtils" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ReflectionUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="334" x="6287" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="34" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleProperty" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="200" x="10902" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="35" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleColor" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="132" x="9863" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="36" language="java" name="de.timc.mcorelib.effectlib.util.Disposable" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/Disposable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="132" x="8425" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="37" language="java" name="de.timc.mcorelib.effectlib.util.ReflectionUtils.PackageType" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ReflectionUtils.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="549" width="259" x="6362" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="38" language="java" name="de.timc.mcorelib.effectlib.util.MathUtils.Sin" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/MathUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="132" x="6841" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleData" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="162" x="9661" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ItemData" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="136" x="9718" y="4000"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.NoteColor" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="132" x="9863" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="de.timc.mcorelib.effectlib.util.VectorUtils" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/VectorUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="265" x="1228" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.OrdinaryColor" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="140" x="10035" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="de.timc.mcorelib.effectlib.util.MathUtils" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/MathUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1089" width="186" x="6963" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleVersionException" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="181" x="10472" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" 
+    name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticlePacket.VersionIncompatibleException" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="260" x="10783" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticlePacket" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="376" x="10056" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect.ParticleColorException" 
+    project="MCoreLib" file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="169" x="10693" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="49" language="java" name="de.timc.mcorelib.effectlib.util.ParticleEffect" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/effectlib/util/ParticleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1395" width="364" x="10016" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="50" language="java" name="de.timc.mcorelib.event.BlockBreakListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/BlockBreakListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="204" x="2740" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="de.timc.mcorelib.event.MCoreListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/MCoreListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="5656" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="de.timc.mcorelib.event.BlockPhysicListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/BlockPhysicListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="218" x="4280" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="de.timc.mcorelib.event.PlayerLoginListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/PlayerLoginListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="219" x="3779" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="de.timc.mcorelib.event.SignChangeListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/SignChangeListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="5056" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="de.timc.mcorelib.event.PlayerMoveListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/PlayerMoveListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="4538" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="de.timc.mcorelib.event.DamageListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/DamageListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="239" x="3500" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="de.timc.mcorelib.event.BlockPlaceListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/BlockPlaceListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="202" x="4038" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="de.timc.mcorelib.event.PlayerDropItemListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/PlayerDropItemListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="2984" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="de.timc.mcorelib.event.ListenerProperty" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/ListenerProperty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="165" x="4159" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="de.timc.mcorelib.event.InventoryClickListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/InventoryClickListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="230" x="4786" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="de.timc.mcorelib.event.GameModeChangeListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/GameModeChangeListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="308" x="5308" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="de.timc.mcorelib.event.PlayerPickupItemListener" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/PlayerPickupItemListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="226" x="3234" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="de.timc.mcorelib.event.ChatProperty" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/event/ChatProperty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="202" x="5656" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="de.timc.mcorelib.firework.MFireEffect" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/firework/MFireEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="214" x="12102" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="de.timc.mcorelib.firework.Firework" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/firework/Firework.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="199" x="12102" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="de.timc.mcorelib.hologram.Hologram" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/hologram/Hologram.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="265" x="3111" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="de.timc.mcorelib.jsonchat.JSONChatExtra" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatExtra.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="303" x="8313" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="68" language="java" name="de.timc.mcorelib.jsonchat.JSONChatHoverEventType" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatHoverEventType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="268" x="5979" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="69" language="java" name="de.timc.mcorelib.jsonchat.JSONChatColor" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatColor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="179" x="1796" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="70" language="java" name="de.timc.mcorelib.jsonchat.JSONChatMessage" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="322" x="7951" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="71" language="java" name="de.timc.mcorelib.jsonchat.JSONChatClickEventType" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatClickEventType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="261" x="4924" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="72" language="java" name="de.timc.mcorelib.jsonchat.JSONChatFormat" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/jsonchat/JSONChatFormat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="199" x="350" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="73" language="java" name="de.timc.mcorelib.logger.Logger" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/logger/Logger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="213" x="1533" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="de.timc.mcorelib.metrics.Metrics" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/metrics/Metrics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="260" x="9492" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="de.timc.mcorelib.metrics.Metrics.Graph" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/metrics/Metrics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="153" x="9405" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="de.timc.mcorelib.metrics.Metrics.Plotter" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/metrics/Metrics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="142" x="9437" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="de.timc.mcorelib.plugin.MCoreLibPlugin" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/plugin/MCoreLibPlugin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="193" x="7185" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="de.timc.mcorelib.plugin.MCorePlayer" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/plugin/MCorePlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1431" width="300" x="7476" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="de.timc.mcorelib.servertool.ServerTool" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/servertool/ServerTool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="276" x="7816" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="de.timc.mcorelib.spawner.SpawnerManager" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/spawner/SpawnerManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="199" x="2862" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="de.timc.mcorelib.spawner.MCSpawner" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/spawner/MCSpawner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="186" x="4698" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="de.timc.mcorelib.sql.MCoreSQL" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/sql/MCoreSQL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="238" x="2584" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="de.timc.mcorelib.title.Title" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/Title.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="229" x="11348" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="de.timc.mcorelib.title.TitleSamples" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/TitleSamples.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="206" x="5465" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="85" language="java" name="de.timc.mcorelib.title.TitleType" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/TitleType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="121" x="11613" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="86" language="java" name="de.timc.mcorelib.title.Title.TitleHandler" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/Title.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="225" x="11348" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="87" language="java" name="de.timc.mcorelib.title.TitleFormat" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/TitleFormat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="169" x="11244" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="88" language="java" name="de.timc.mcorelib.title.TitleColor" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/title/TitleColor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="133" x="11453" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="89" language="java" name="de.timc.mcorelib.update.MCoreUpdateManager" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/update/MCoreUpdateManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="165" x="589" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="de.timc.mcorelib.update.MCoreUpdate" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/update/MCoreUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="308" x="2015" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="de.timc.mcorelib.uuid.UUIDFetcher" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/uuid/UUIDFetcher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="231" x="9117" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="de.timc.mcorelib.woolcolor.ColorParser" project="MCoreLib" 
+    file="/MCoreLib/src/de/timc/mcorelib/woolcolor/ColorParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="3621" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="org.json.simple.JSONValue" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/JSONValue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="200" x="3974" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="org.json.simple.JSONObject" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/JSONObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="253" x="8132" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="org.json.simple.JSONArray" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/JSONArray.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="186" x="5874" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="org.json.simple.ItemList" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/ItemList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="196" x="4214" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="97" language="java" name="org.json.simple.JSONStreamAware" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/JSONStreamAware.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="166" x="7587" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="98" language="java" name="org.json.simple.JSONAware" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/JSONAware.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="129" x="7418" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="99" language="java" name="org.json.simple.parser.ContainerFactory" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/ContainerFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="165" x="3416" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="100" language="java" name="org.json.simple.parser.Yytoken" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/Yytoken.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="154" x="9238" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="org.json.simple.parser.ParseException" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/ParseException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="210" x="978" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="org.json.simple.parser.JSONParser" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/JSONParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="248" x="9117" y="1472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="org.json.simple.parser.Yylex" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/Yylex.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1017" width="201" x="8997" y="2943"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="104" language="java" name="org.json.simple.parser.ContentHandler" project="MCoreLib" 
+    file="/MCoreLib/src/org/json/simple/parser/ContentHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="181" x="2363" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <nesting id="105">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <association id="106">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="107" name="properties"/>      
+      <multiplicity id="108" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <association id="110">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="111" name="LIGHT_GREEN"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="113">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="114">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="115">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="116" name="CYAN"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="118">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <nesting id="119">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <nesting id="120">    
+    <bendpoint x="9630" y="1472"/>    
+    <bendpoint x="9630" y="2943"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="121">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="122" name="handlers"/>      
+      <multiplicity id="123" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="124">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="48"/>  
+  </nesting>  
+  <association id="125">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="126" name="RED"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="128">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="129">    
+    <end type="SOURCE" refId="70" navigable="false">      
+      <attribute id="130" name="chatObject"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="132">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <association id="133">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="134" name="manager"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="136">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <realization id="137">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="97"/>  
+  </realization>  
+  <nesting id="138">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="139">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="86"/>  
+  </nesting>  
+  <generalization id="140">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="141">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="142" name="countdown"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="145" name="posHead"/>      
+      <multiplicity id="146" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="147">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="148">    
+    <end type="SOURCE" refId="102" navigable="false">      
+      <attribute id="149" name="lexer"/>      
+      <multiplicity id="150" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="151">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="152">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="153" name="DRAGONS"/>      
+      <multiplicity id="154" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="156" name="type"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="158">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <generalization id="159">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <nesting id="160">    
+    <bendpoint x="9832" y="1472"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="41"/>  
+  </nesting>  
+  <association id="161">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="162" name="posRightLeg"/>      
+      <multiplicity id="163" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="164">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="165">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="166">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="167" name="colors"/>      
+      <multiplicity id="168" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="170" name="GRAY"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="172">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="173" name="effects"/>      
+      <multiplicity id="174" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="175">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="176" name="instance"/>      
+      <multiplicity id="177" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="178">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <association id="179">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="180" name="serverTool"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="183" name="effectManagers"/>      
+      <multiplicity id="184" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="185">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="186" name="DRAGONS"/>      
+      <multiplicity id="187" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="188">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="189" name="listener"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="192" name="subtitle"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="195" name="LIGHT_RED"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="198" name="effectManager"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="201" name="PINK"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="203">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="35"/>  
+  </generalization>  
+  <association id="204">    
+    <bendpoint x="7445" y="1472"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="205" name="plugin"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="208" name="BLACK"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="211" name="type"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="213">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="75"/>  
+  </nesting>  
+  <nesting id="214">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <realization id="215">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="36"/>  
+  </realization>  
+  <association id="216">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="217" name="configs"/>      
+      <multiplicity id="218" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="219">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="97"/>  
+  </realization>  
+  <generalization id="220">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="39"/>  
+  </generalization>  
+  <generalization id="221">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="222">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="223" name="WHITE"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="225">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="226" name="instance"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="229" name="countdown"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="232" name="chatExtra"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="235" name="plugin"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <end type="SOURCE" refId="102" navigable="false">      
+      <attribute id="238" name="token"/>      
+      <multiplicity id="239" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="100" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="240">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="241">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="242">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="243" name="values"/>      
+      <multiplicity id="244" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="245">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="246" name="MAGENTA"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="248">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <association id="249">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="250" name="GREEN"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="253" name="plotters"/>      
+      <multiplicity id="254" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="255">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="256">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="257" name="jsonParser"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="102" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="259">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="260" name="instance"/>      
+      <multiplicity id="261" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="262">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <realization id="263">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="98"/>  
+  </realization>  
+  <association id="264">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="265" name="plugin"/>      
+      <multiplicity id="266" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="268" name="ORANGE"/>      
+      <multiplicity id="269" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="270">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="271" name="BLUE"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="273">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="274" name="posLeftArm"/>      
+      <multiplicity id="275" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="276">    
+    <bendpoint x="10025" y="1472"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="43"/>  
+  </nesting>  
+  <association id="277">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="278" name="data"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="281" name="players"/>      
+      <multiplicity id="282" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="284" name="effect"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="287" name="ticker"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="289">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="290" name="YELLOW"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="292">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="293" name="cproperty"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="295">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="296" name="property"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="298">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <association id="299">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="300" name="PURPLE"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="302">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="303">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="304" name="formats"/>      
+      <multiplicity id="305" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="306">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="307" name="LIGHT_GRAY"/>      
+      <multiplicity id="308" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="310" name="texts"/>      
+      <multiplicity id="311" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="312">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="46"/>  
+  </nesting>  
+  <generalization id="313">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="314">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="315" name="posRightArm"/>      
+      <multiplicity id="316" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="317">    
+    <bendpoint x="9609" y="1472"/>    
+    <bendpoint x="9609" y="2943"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <association id="318">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="319" name="color"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="321">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="98"/>  
+  </realization>  
+  <association id="322">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="323" name="posLeftLeg"/>      
+      <multiplicity id="324" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="325">    
+    <bendpoint x="9811" y="1472"/>    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <nesting id="326">    
+    <bendpoint x="9588" y="1472"/>    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="76"/>  
+  </nesting>  
+  <association id="327">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="328" name="graphs"/>      
+      <multiplicity id="329" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="331" name="posBody"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="333">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <association id="334">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="335" name="LIGHT_BLUE"/>      
+      <multiplicity id="336" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="337">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="338" name="events"/>      
+      <multiplicity id="339" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="340">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="341" name="instance"/>      
+      <multiplicity id="342" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="343">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="344" name="entityManager"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
